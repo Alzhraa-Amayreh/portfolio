@@ -16,6 +16,7 @@ h1,h2{
     padding:25px;
     background-color: #ffff;
      font-size: 18px;
+      box-shadow: 0 2px 8px rgba(0,0,0,.08);
 }
 ul{
     list-style: none;
@@ -28,8 +29,10 @@ a{
     color:black
 }
 .nav a:hover{
- color:#20438f
+ 
+    color: #60a5fa;
 }
+
 .logo{
     font-size: x-large;
     color: #20438f;
@@ -88,10 +91,12 @@ a{
     padding: 40px;
     border-radius: 12px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    
    
 }
 .skill-card:hover{
      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+     color:#60a5fa;
 }
 .contact{
     margin-top: 50px;
@@ -126,4 +131,28 @@ a{
 }
 .contact button:hover{
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+footer {
+    background-color:#0E194E;
+    color: #ffff;
+    text-align: center;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.social-links  {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+
+}
+
+.social-links a{
+    color:white;
+   
+}
+.social-links a:hover {
+    color: #60a5fa;
 }
