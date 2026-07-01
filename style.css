@@ -7,7 +7,9 @@
 body{
     background-color: #f9fafb;
 }
-
+h1,h2{
+    color:#2563eb
+}
 .nav{
     display: flex;
     justify-content: space-between;
@@ -37,11 +39,26 @@ a{
      margin-top: 50px;
      gap:15px;
 }
-.content{
-    display: flex;
-    gap:10px;
-}
+
 .prof-img{
     width:150px;
     height:150px;
+}
+
+.about{
+  
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+     gap:10px;
+     padding: 40px;
+     margin-top: 50px;
+}
+
+.about p{
+    max-width: 700px;
+    line-height: 1.8;
+    font-size: 18px;
+    text-align: center; 
 }
