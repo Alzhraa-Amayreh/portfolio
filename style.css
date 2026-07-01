@@ -28,3 +28,20 @@ a{
     font-size: x-large;
     color: #2563eb;
 }
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding:25px;
+     margin-top: 50px;
+     gap:15px;
+}
+.content{
+    display: flex;
+    gap:10px;
+}
+.prof-img{
+    width:150px;
+    height:150px;
+}
