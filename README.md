@@ -18,3 +18,5 @@ This is a simple personal portfolio website built using **HTML5** and **CSS3**. 
 * HTML5
 * CSS3
 * Flexbox
+## screenshot of the portfolio page
+"https://github.com/user-attachments/assets/71882f75-03b4-4d78-8754-503199c03a92" 
