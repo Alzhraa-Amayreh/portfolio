@@ -7,7 +7,7 @@ This is a simple personal portfolio website built using **HTML5** and **CSS3**. 
 
 * Hero section with a profile image and short introduction.
 * About Me section with a brief personal description.
-* Skills section highlighting HTML5, CSS3, JavaScript, and Git.
+* Skills section highlighting HTML5, CSS3,  and Git.
 * Contact section with a call-to-action button.
 * Footer with links to social media profiles.
 * Hover effects for navigation links, skill cards, buttons, and social links.
@@ -18,3 +18,5 @@ This is a simple personal portfolio website built using **HTML5** and **CSS3**. 
 * HTML5
 * CSS3
 * Flexbox
+## screenshot of the portfolio page
+"https://github.com/user-attachments/assets/71882f75-03b4-4d78-8754-503199c03a92" 
